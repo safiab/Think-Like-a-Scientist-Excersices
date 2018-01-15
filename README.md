@@ -1,1 +1,1 @@
-# Think-Like-a-Scientist-Excersices
+# Think Like a Computer Scientist Book Solutions

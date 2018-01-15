@@ -7,5 +7,20 @@
 # per mile? What is your average speed in miles per hour? (Hint: there are
 # 1.61 kilometers in a mile).
 
-# conevert distance to distance in miles
-distance=10*1.61
+# convert the distance from km to miles
+
+distanceKM = 10
+distanceMile = distanceKM / 1.61
+
+# convert rice time  to seconds
+timePerSeconds = (43 * 60) + 30
+
+# print average time per mile
+print(timePerSeconds / distanceMile, 'seconds per mile')
+
+# convert rice time  to hours
+timePerHours = 43.5 / 60
+
+# average speed in miles per hour
+print(distanceMile / timePerHours, 'miles per hour')
+
